@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Klinik Hewan</string>
+    <string name="email">Username</string>
+
+    <string-array name="name">
+        <item>Profil</item>
+        <item>Pasien</item>
+        <item>Jadwal</item>
+    </string-array>
+
+    <string-array name="image_name">
+        <item>@drawable/profile</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/calendar</item>
+    </string-array>
+
+</resources>
